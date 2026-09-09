@@ -1,0 +1,24 @@
+{
+  "name": "figma-design-token",
+  "version": "0.0.1",
+  "description": "figma-design-token",
+  "main": "index.js",
+  "scripts": {
+    "build":"node build-tokens.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HopeFullee/figma-design-token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HopeFullee/figma-design-token/issues"
+  },
+  "homepage": "https://github.com/HopeFullee/figma-design-token#readme",
+  "devDependencies": {
+    "style-dictionary": "5.5.3"
+  }
+}
